@@ -19,6 +19,7 @@ import java.util.Date;
 @Entity
 public class File extends Identifiable<Long> {
     private static final long serialVersionUID = 1L;
+
     @NotNull
     @OneToOne
     private Patient patient;

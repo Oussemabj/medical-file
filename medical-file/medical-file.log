@@ -335,3 +335,172 @@
 2021-01-04 20:00:14,913 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting File 2
 2021-01-04 20:00:14,928 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-1] Getting All medicalTreatment By File id 2
 2021-01-04 20:00:14,936 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-1] Getting medicines with ids [2]
+2021-01-04 20:14:39,687 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 324194 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:14:39,690 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:14:39,692 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:14:44,555 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.3 seconds (JVM running for 6.094)
+2021-01-04 20:15:07,985 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-9] Getting all files
+2021-01-04 20:15:36,968 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 324546 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:15:36,971 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:15:36,972 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:15:41,839 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.294 seconds (JVM running for 6.083)
+2021-01-04 20:16:12,327 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-9] Getting all files
+2021-01-04 20:22:27,222 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 325508 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:22:27,226 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:22:27,227 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:22:31,958 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.118 seconds (JVM running for 5.798)
+2021-01-04 20:22:48,656 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-9] Getting all files
+2021-01-04 20:23:03,382 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-10] Getting File 1
+2021-01-04 20:23:03,421 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-10] Getting All medicalTreatment By File id 1
+2021-01-04 20:23:03,456 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-10] Getting medicines with ids [1, 2]
+2021-01-04 20:26:11,699 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Getting all files
+2021-01-04 20:36:42,099 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 329971 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:36:42,103 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:36:42,104 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:36:46,920 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.283 seconds (JVM running for 6.048)
+2021-01-04 20:36:51,087 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 20:41:01,490 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Getting all files
+2021-01-04 20:41:04,070 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-4] Getting all files
+2021-01-04 20:41:17,602 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 330963 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:41:17,605 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:41:17,607 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:41:23,478 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 6.399 seconds (JVM running for 7.372)
+2021-01-04 20:41:25,366 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 20:45:45,246 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 331861 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:45:45,263 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:45:45,265 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:45:51,381 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 6.619 seconds (JVM running for 7.844)
+2021-01-04 20:45:57,207 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 20:47:27,354 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 332242 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:47:27,360 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:47:27,361 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:47:32,610 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.712 seconds (JVM running for 6.473)
+2021-01-04 20:47:40,304 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-9] Getting all files
+2021-01-04 20:48:30,173 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 332538 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:48:30,177 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:48:30,178 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:48:34,984 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.214 seconds (JVM running for 6.031)
+2021-01-04 20:48:40,099 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 20:49:36,356 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 332915 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:49:36,383 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:49:36,384 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:49:41,057 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.133 seconds (JVM running for 5.885)
+2021-01-04 20:49:45,530 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 20:51:36,897 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-3] Getting medicine with id 2
+2021-01-04 20:51:43,584 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-4] Getting medicine with id 1
+2021-01-04 20:56:57,160 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 334171 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 20:56:57,169 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 20:56:57,170 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 20:57:02,095 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.382 seconds (JVM running for 6.16)
+2021-01-04 20:57:05,154 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 21:04:02,551 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 335277 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 21:04:02,555 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 21:04:02,556 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 21:04:07,156 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.002 seconds (JVM running for 5.926)
+2021-01-04 21:04:11,702 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 21:12:51,078 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 336491 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 21:12:51,092 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 21:12:51,094 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 21:12:55,576 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 4.979 seconds (JVM running for 5.936)
+2021-01-04 21:12:59,810 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 21:17:36,665 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Getting File 1
+2021-01-04 21:17:36,682 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-3] Getting All medicalTreatment By File id 1
+2021-01-04 21:17:36,706 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-3] Getting medicines with ids [1, 2]
+2021-01-04 21:18:26,270 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-4] Getting all files with pagination
+2021-01-04 21:18:26,295 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-4] Getting medicine with id 1
+2021-01-04 21:18:26,305 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-4] Getting medicine with id 2
+2021-01-04 21:18:26,310 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-4] Getting medicine with id 2
+2021-01-04 21:21:28,640 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-6] Getting all files
+2021-01-04 21:21:54,144 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 338020 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 21:21:54,147 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 21:21:54,148 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 21:21:58,721 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.121 seconds (JVM running for 5.968)
+2021-01-04 21:22:00,714 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 21:22:03,428 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-2] Getting all files
+2021-01-04 21:28:59,789 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Adding new File tn.iit.medicalfile.dto.FileDto@1655a02
+2021-01-04 21:29:28,793 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-4] Adding new File tn.iit.medicalfile.dto.FileDto@359322c1
+2021-01-04 21:35:00,737 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-5] Adding new File tn.iit.medicalfile.dto.FileDto@205e7cdd
+2021-01-04 21:38:52,975 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 340392 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 21:38:52,979 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 21:38:52,980 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 21:38:57,404 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 4.841 seconds (JVM running for 5.59)
+2021-01-04 21:39:02,275 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Adding new File tn.iit.medicalfile.dto.FileDto@71ce6c85
+2021-01-04 21:57:37,141 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 343022 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 21:57:37,144 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 21:57:37,145 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 21:57:41,543 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 4.807 seconds (JVM running for 5.525)
+2021-01-04 21:57:56,376 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Adding new File tn.iit.medicalfile.dto.FileDto@2616f4d5
+2021-01-04 21:58:07,536 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-2] Adding new File tn.iit.medicalfile.dto.FileDto@129b94b8
+2021-01-04 21:59:50,595 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 343493 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 21:59:50,599 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 21:59:50,600 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 21:59:54,958 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 4.78 seconds (JVM running for 5.481)
+2021-01-04 21:59:59,488 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Adding new File tn.iit.medicalfile.dto.FileDto@23256f0c
+2021-01-04 22:01:03,818 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 343835 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 22:01:03,822 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 22:01:03,823 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 22:01:08,471 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.066 seconds (JVM running for 5.808)
+2021-01-04 22:01:11,868 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Adding new File tn.iit.medicalfile.dto.FileDto@569e51de
+2021-01-04 22:01:38,003 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 344015 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 22:01:38,007 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 22:01:38,008 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 22:01:42,760 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.2 seconds (JVM running for 5.938)
+2021-01-04 22:01:44,391 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Adding new File tn.iit.medicalfile.dto.FileDto@5abed106
+2021-01-04 22:01:56,369 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-2] Adding new File tn.iit.medicalfile.dto.FileDto@5e27818e
+2021-01-04 22:02:11,489 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Adding new File tn.iit.medicalfile.dto.FileDto@6252df8b
+2021-01-04 22:03:49,797 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 344402 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 22:03:49,800 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 22:03:49,801 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 22:03:54,990 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.635 seconds (JVM running for 6.345)
+2021-01-04 22:22:01,065 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 22:23:36,853 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 347294 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 22:23:36,869 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 22:23:36,870 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 22:23:41,310 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 4.896 seconds (JVM running for 5.685)
+2021-01-04 22:23:45,142 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 22:24:41,563 INFO org.springframework.boot.StartupInfoLogger [main] Starting MedicalFileApplication using Java 1.8.0_271 on PC-OUSSEMA with PID 347592 (/home/oussema/Documents/medical-file/target/classes started by oussema in /home/oussema/Documents/medical-file)
+2021-01-04 22:24:41,566 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-04 22:24:41,567 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-01-04 22:24:46,422 INFO org.springframework.boot.StartupInfoLogger [main] Started MedicalFileApplication in 5.236 seconds (JVM running for 5.857)
+2021-01-04 22:25:21,796 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-1] Adding new Patient tn.iit.medicalfile.dto.PatientDto@70172e32
+2021-01-04 22:25:44,485 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-2] Adding new Patient tn.iit.medicalfile.dto.PatientDto@252a94a8
+2021-01-04 22:25:56,772 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-3] Getting all Patients
+2021-01-04 22:26:27,106 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-4] Updating Category 2 with mohamed
+2021-01-04 22:26:42,266 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-5] Getting patient 3
+2021-01-04 22:26:50,173 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-6] Getting patient 2
+2021-01-04 22:27:12,969 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-7] Adding new Patient tn.iit.medicalfile.dto.PatientDto@34489889
+2021-01-04 22:27:25,647 DEBUG tn.iit.medicalfile.controller.PatientController [http-nio-9192-exec-8] Deleting patient 3
+2021-01-04 22:27:51,228 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-9] Adding new File tn.iit.medicalfile.dto.FileDto@61ef5b24
+2021-01-04 22:28:03,755 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-10] Adding new File tn.iit.medicalfile.dto.FileDto@6b1086f4
+2021-01-04 22:28:12,635 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 22:28:46,260 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-2] Getting File 1
+2021-01-04 22:28:46,271 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-2] Getting All medicalTreatment By File id 1
+2021-01-04 22:28:46,284 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-2] Getting medicines with ids []
+2021-01-04 22:31:38,933 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-5] Adding new MedicalTreatment tn.iit.medicalfile.dto.MedicalTreatmentDto@28ad08c3
+2021-01-04 22:31:45,185 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-6] Adding new MedicalTreatment tn.iit.medicalfile.dto.MedicalTreatmentDto@32b0850c
+2021-01-04 22:31:52,867 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-7] Getting all files with pagination
+2021-01-04 22:31:52,974 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-7] Getting medicine with id 1
+2021-01-04 22:31:53,020 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-7] Getting medicine with id 2
+2021-01-04 22:32:01,127 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-8] Getting File 1
+2021-01-04 22:32:01,133 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-8] Getting All medicalTreatment By File id 1
+2021-01-04 22:32:01,140 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-8] Getting medicines with ids [1, 2]
+2021-01-04 22:32:58,082 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-10] Updating Treatments 2 with tn.iit.medicalfile.dto.MedicalTreatmentDto@59c7f5b7
+2021-01-04 22:33:03,864 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting File 1
+2021-01-04 22:33:03,869 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-1] Getting All medicalTreatment By File id 1
+2021-01-04 22:33:03,874 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-1] Getting medicines with ids [1, 1]
+2021-01-04 22:33:15,707 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-2] Updating Treatments 2 with tn.iit.medicalfile.dto.MedicalTreatmentDto@2cda349b
+2021-01-04 22:33:23,454 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Getting File 1
+2021-01-04 22:33:23,480 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-3] Getting All medicalTreatment By File id 1
+2021-01-04 22:33:23,487 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-3] Getting medicines with ids [1, 2]
+2021-01-04 22:34:43,719 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-5] Getting medicine with id 1
+2021-01-04 22:34:50,111 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-6] Getting medicine with id 2
+2021-01-04 22:35:02,361 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-7] Getting medicine with id 1
+2021-01-04 22:38:19,674 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-9] Adding new MedicalTreatment tn.iit.medicalfile.dto.MedicalTreatmentDto@6b8e12f1
+2021-01-04 22:38:26,593 DEBUG tn.iit.medicalfile.controller.MedicalTreatmentController [http-nio-9192-exec-10] Adding new MedicalTreatment tn.iit.medicalfile.dto.MedicalTreatmentDto@3bd2dd8d
+2021-01-04 22:39:08,876 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-1] Getting all files
+2021-01-04 22:39:14,937 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-2] Getting File 1
+2021-01-04 22:39:14,942 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-2] Getting All medicalTreatment By File id 1
+2021-01-04 22:39:14,949 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-2] Getting medicines with ids [1, 2]
+2021-01-04 22:39:21,527 DEBUG tn.iit.medicalfile.controller.FileController [http-nio-9192-exec-3] Getting File 2
+2021-01-04 22:39:21,531 DEBUG tn.iit.medicalfile.service.MedicalTreatmentService [http-nio-9192-exec-3] Getting All medicalTreatment By File id 2
+2021-01-04 22:39:21,535 DEBUG tn.iit.medicalfile.service.StoreManagementClientService [http-nio-9192-exec-3] Getting medicines with ids [3, 3]

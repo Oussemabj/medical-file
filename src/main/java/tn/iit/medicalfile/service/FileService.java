@@ -40,8 +40,7 @@ public class FileService {
     }
 
     public List<FileDto> getAll() {
-
-        return fileMapper.mapToDtos (fileRepository.findAll ());
+return fileMapper.mapToDtos (fileRepository.findAll ());
     }
 
     public void delete(Long id) {

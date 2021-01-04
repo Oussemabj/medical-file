@@ -28,6 +28,7 @@ public class FileController {
     @GetMapping
     public ResponseEntity<List<FileDto>> getAllFiles() {
         this.logger.debug ("Getting all files");
+
         return new ResponseEntity<>(fileService.getAll(), HttpStatus.OK);
     }
     @GetMapping("/{id}")
@@ -40,6 +41,8 @@ public class FileController {
         this.logger.debug ("Adding new File {}",fileDto);
         return new ResponseEntity<>(fileService.save(fileDto), HttpStatus.OK);
     }
+
+
 
     @PutMapping
     public ResponseEntity<FileDto> updateFile(@Valid @RequestBody FileDto fileDto){
