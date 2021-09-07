@@ -38,6 +38,13 @@ public class StoreManagementClientService {
                 new HttpEntity<> (null,new HttpHeaders ()),
                 MedicineDto.class).getBody ();
     }
+      public CategoryDto getCategoryById(long id){
+        return restTemplate.exchange( Links.MEDICINE_CATEGORY+"/"+id,
+                HttpMethod.GET,
+                new HttpEntity<>(null,new HttpHeaders()),
+                CategoryDto.class
+                ).getBody();
+    }
     public List<MedicineDto> getMedicinesByIds(List<Long> ids){
         this.logger.debug ("Getting medicines with ids {}",ids);
         return restTemplate.exchange (Links.MEDICINES+"/search",
